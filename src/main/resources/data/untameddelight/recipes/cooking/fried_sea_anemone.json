@@ -1,0 +1,47 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    [
+      {
+        "item": "untamedwilds:anemone_rose_bulb"
+      },
+      {
+        "item": "untamedwilds:anemone_sand"
+      },
+	  {
+        "item": "untamedwilds:anemone_sebae"
+      }
+    ],
+	[
+      {
+        "item": "untamedwilds:anemone_rose_bulb"
+      },
+      {
+        "item": "untamedwilds:anemone_sand"
+      },
+	  {
+        "item": "untamedwilds:anemone_sebae"
+      }
+    ],
+	[
+      {
+        "item": "untamedwilds:anemone_rose_bulb"
+      },
+      {
+        "item": "untamedwilds:anemone_sand"
+      },
+	  {
+        "item": "untamedwilds:anemone_sebae"
+      }
+    ],
+	{
+      "item": "minecraft:potato"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "untameddelight:fried_sea_anemone"
+  }
+}

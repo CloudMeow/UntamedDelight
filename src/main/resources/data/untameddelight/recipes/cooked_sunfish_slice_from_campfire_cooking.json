@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "untameddelight:sunfish_slice"
+  },
+  "result": "untameddelight:cooked_sunfish_slice"
+}

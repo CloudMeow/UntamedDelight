@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:bread"
+    },
+	[
+		{
+		"item": "untameddelight:bear_steak"
+		},
+		{
+		"item": "untamedwilds:food_bear_cooked"
+		}
+	],
+    {
+      "tag": "forge:salad_ingredients"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    }
+  ],
+  "result": {
+    "item": "untameddelight:bear_sandwich"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "untameddelight:item/steamed_king_crab_block"
+  }
+}

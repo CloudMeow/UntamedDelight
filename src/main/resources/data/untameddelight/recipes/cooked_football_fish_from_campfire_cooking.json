@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "untameddelight:football_fish"
+  },
+  "result": "untameddelight:cooked_football_fish"
+}

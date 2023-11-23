@@ -1,0 +1,24 @@
+{
+    "parent": "minecraft:block/block",
+	"render_type": "cutout",
+	"textures": {
+		"0": "untameddelight:block/pizza_top",
+		"1": "untameddelight:block/pizza_side",
+		"2": "untameddelight:block/pizza_bottom",
+		"particle": "untameddelight:block/pizza_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 2, 16],
+			"faces": {
+				"north": {"uv": [0, 14, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 14, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 14, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 14, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}

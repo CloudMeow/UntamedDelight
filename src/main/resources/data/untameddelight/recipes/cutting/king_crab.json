@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "untameddelight:king_crab"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "untameddelight:king_crab_body",
+      "count": 1
+    },
+    {
+      "item": "untameddelight:king_crab_legs",
+      "count": 1
+    }
+  ]
+}

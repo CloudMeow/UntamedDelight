@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "untameddelight:spadefish"
+  },
+  "result": "untameddelight:cooked_spadefish",
+  "experience": 0.35,
+  "cookingtime": 200
+}

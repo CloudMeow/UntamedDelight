@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "untameddelight:football_fish"
+  },
+  "result": "untameddelight:cooked_football_fish",
+  "experience": 0.35,
+  "cookingtime": 200
+}

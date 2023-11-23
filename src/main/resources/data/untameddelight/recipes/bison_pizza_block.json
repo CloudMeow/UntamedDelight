@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "MSM",
+    " D "
+  ],
+  "key": {
+    "M": {
+      "tag": "forge:milk"
+    },
+    "B": {
+      "item": "untameddelight:cooked_bison_meat"
+    },
+    "S": {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    "D": {
+      "item": "farmersdelight:wheat_dough"
+    }
+  },
+  "result": {
+    "item": "untameddelight:bison_pizza_block",
+    "count": 1
+  }
+}

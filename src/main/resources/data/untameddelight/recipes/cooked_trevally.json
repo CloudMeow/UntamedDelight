@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "untameddelight:trevally"
+  },
+  "result": "untameddelight:cooked_trevally",
+  "experience": 0.35,
+  "cookingtime": 200
+}

@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+	{
+      "item": "untameddelight:camel_meat"
+    },
+	{
+      "tag": "forge:crops/onion"
+    },
+	{
+      "tag": "forge:crops/tomato"
+    },
+	{
+      "tag": "forge:crops/cabbage"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "untameddelight:camel_meat_karahi"
+  }
+}

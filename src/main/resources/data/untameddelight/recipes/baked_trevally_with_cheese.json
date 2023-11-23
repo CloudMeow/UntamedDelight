@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "untameddelight:cooked_trevally"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+	{
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "item": "untameddelight:baked_trevally_with_cheese"
+  }
+}

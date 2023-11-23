@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "item": "untameddelight:sunfish_slice"
+    },
+    {
+      "item": "untameddelight:sunfish_slice"
+    },
+    {
+      "item": "untameddelight:sunfish_slice"
+    },
+    {
+      "tag": "forge:crops/cabbage"
+    },
+	{
+      "item": "farmersdelight:tomato_sauce"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "untameddelight:sour_sunfish_broth_block"
+  }
+}

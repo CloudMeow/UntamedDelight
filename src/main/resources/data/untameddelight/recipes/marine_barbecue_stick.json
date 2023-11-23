@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cooked_cod_slice"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+	{
+      "item": "untamedwilds:food_turtle_cooked"
+    },
+	{
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "untameddelight:marine_barbecue_stick"
+  }
+}

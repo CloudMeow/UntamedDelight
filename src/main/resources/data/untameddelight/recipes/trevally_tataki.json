@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "untameddelight:trevally_slice"
+    },
+    {
+      "item": "untameddelight:trevally_slice"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "untameddelight:trevally_tataki"
+  }
+}

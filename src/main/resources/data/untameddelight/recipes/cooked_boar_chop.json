@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "untameddelight:boar_chop"
+  },
+  "result": "untameddelight:cooked_boar_chop",
+  "experience": 0.35,
+  "cookingtime": 200
+}

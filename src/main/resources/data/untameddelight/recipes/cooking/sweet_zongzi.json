@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "untameddelight:reed_leaf"
+    }
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "untameddelight:sweet_zongzi"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:raw_pork"
+    },
+    [
+      {
+        "item": "untamedwilds:food_bear_raw"
+      },
+      {
+        "item": "untameddelight:sliced_bear"
+      }
+    ]
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "untameddelight:vietnamese_black_bear_pate_chaud"
+  }
+}

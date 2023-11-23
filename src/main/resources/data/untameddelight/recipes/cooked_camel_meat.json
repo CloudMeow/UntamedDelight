@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "untameddelight:camel_meat"
+  },
+  "result": "untameddelight:cooked_camel_meat",
+  "experience": 0.35,
+  "cookingtime": 200
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "name": "pool1",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "untameddelight:bison_pizza_block"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:block_state_property",
+          "block": "untameddelight:bison_pizza_block",
+          "properties": {
+            "servings": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

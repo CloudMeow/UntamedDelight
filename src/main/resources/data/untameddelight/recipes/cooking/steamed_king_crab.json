@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 400,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "item": "untameddelight:king_crab_body"
+    },
+    {
+      "item": "untameddelight:king_crab_legs"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:crops/cabbage"
+    },
+	{
+      "tag": "forge:crops/tomato"
+    },
+	{
+      "tag": "forge:crops/onion"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "untameddelight:steamed_king_crab_block"
+  }
+}

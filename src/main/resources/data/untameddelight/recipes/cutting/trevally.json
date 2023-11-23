@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "untameddelight:trevally"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "untameddelight:trevally_slice"
+    },
+    {
+	  "count": 1,	
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

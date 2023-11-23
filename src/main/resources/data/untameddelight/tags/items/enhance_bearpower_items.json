@@ -1,0 +1,46 @@
+{
+  "values": [
+    "minecraft:honey_bottle",
+    "farmersdelight:honey_cookie",
+	{
+      "id": "the_bumblezone:honey_crystal_shards",
+      "required": false
+    },
+	{
+      "id": "buzzier_bees:honey_apple",
+      "required": false
+    },
+	{
+      "id": "buzzier_bees:glazed_porkchop",
+      "required": false
+    },
+	{
+      "id": "buzzier_bees:honey_bread",
+      "required": false
+    },
+	{
+      "id": "twilightdelight:honey_113",
+      "required": false
+    },
+	{
+      "id": "extradelight:honey_custard",
+      "required": false
+    },
+	{
+      "id": "extradelight:honey_cheesecake_slice",
+      "required": false
+    },
+	{
+      "id": "extradelight:honey_popsicle",
+      "required": false
+    },
+	{
+      "id": "extradelight:glazed_carrot",
+      "required": false
+    },
+	{
+      "id": "beachparty:honey_cocktail",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT License"
+
+[[mods]]
+modId="untameddelight"
+version="1.19.2-1.0.0"
+displayName="Untamed Delight"
+logoFile="untameddelight.png"
+logoBlur=false
+credits="raytrace82 for Untamed Wilds"
+authors="CloudMeow"
+description='''A food addon for Farmer's Delight and Untamed Wilds'''
+
+[[dependencies.untameddelight]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.untameddelight]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.untameddelight]]
+    modId="farmersdelight"
+    mandatory=true
+    versionRange="[1.19.2-1.2.3,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.untameddelight]]
+    modId="untamedwilds"
+    mandatory=true
+    versionRange="[1.19.2-3.0.4,)"
+    ordering="AFTER"
+    side="BOTH"

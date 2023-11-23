@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "untameddelight:sunfish"
+    }
+  ],
+  "result": [
+    {
+      "count": 6,
+      "item": "untameddelight:sunfish_slice"
+    },
+    {
+	  "count": 3,	
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

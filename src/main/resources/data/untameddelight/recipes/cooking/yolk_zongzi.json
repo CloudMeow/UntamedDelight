@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "item": "untameddelight:reed_leaf"
+    },
+	[
+		{
+		  "item": "farmersdelight:cooked_bacon"
+		},
+		{
+		  "item": "minecraft:cooked_porkchop"
+		}
+	]
+  ],
+  "recipe_book_tab": "misc",
+  "result": {
+    "item": "untameddelight:yolk_pork_zongzi"
+  }
+}

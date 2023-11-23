@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "untamedwilds:flora_common_reed"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "minecraft:stick",
+      "count": 1
+    },
+    {
+      "item": "untameddelight:reed_leaf",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:iron_bars"
+  },
+  "cookingtime": 400,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "item": "untamedwilds:food_pachyderm_raw"
+    },
+    {
+      "item": "untamedwilds:food_pachyderm_raw"
+    },
+    {
+      "item": "untamedwilds:food_pachyderm_raw"
+    },
+    {
+      "item": "untamedwilds:food_pachyderm_raw"
+    },
+	{
+      "item": "untamedwilds:food_pachyderm_raw"
+    },
+	{
+      "item": "untamedwilds:food_pachyderm_raw"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "untameddelight:doner_kebab_block"
+  }
+}
